@@ -1,0 +1,19 @@
+{
+  "name": "jquery-ex",
+  "version": "0.0.0",
+  "authors": [
+    "Giovanni Collazo <hello@gcollazo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.1",
+    "jquery": "~2.1.1"
+  }
+}
